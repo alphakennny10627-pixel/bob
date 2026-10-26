@@ -1,0 +1,12 @@
+{
+  "name": "quack-strike",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A browser FPS with duck enemies, boss rounds, loot and an equipment shop.",
+  "scripts": {
+    "test": "node --test test/game.test.cjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
